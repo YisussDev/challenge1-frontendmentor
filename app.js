@@ -48,7 +48,7 @@ lala.addEventListener("click", function(r){
 
     }
     else if(r.target.textContent=="Aceptar" && seleccionado==0){
-        alert("Escoja una opción por favor");
+        Swal.fire('Escoge una opción cachón');
 
     }
     else if(r.target.textContent=="X"){
@@ -56,5 +56,6 @@ lala.addEventListener("click", function(r){
     }
 
 })
+
 
 
