@@ -1,0 +1,42 @@
+.tarjeta2{
+    display: none;
+    background-color: rgb(30, 30, 30);
+    width: 400px;
+    height: 450px;
+    border-radius: 10%;
+
+}
+#imagen2{
+    display: block;
+    margin:10px auto 40px;
+    height: 100px;
+}
+#parrafo2{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    font-size: 15px;
+    color: rgb(255, 145, 0);
+    justify-content: center;
+    background-color: rgb(50, 50, 50);
+    width: 240px;
+    padding: 5px 10px;
+    margin: auto;
+    border-radius: 40px;
+}
+#tit2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+#p2{
+    text-align: center;
+    padding: 0px 30px;
+    color: rgb(50, 50, 50);
+
+}
+#bx{
+    display: flex;
+    position: relative;
+    margin: 10px auto;
+
+}
